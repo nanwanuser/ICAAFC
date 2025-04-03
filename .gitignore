@@ -1,0 +1,5 @@
+MDK_ARM/DebugConfig/
+MDK_ARM/ICAAFC/
+MDK_ARM/RTE/ICAAFC/
+MDK_ARM/ICAAFC.uvguix*
+MDK_ARM/startup_stm32h743xx.lst
