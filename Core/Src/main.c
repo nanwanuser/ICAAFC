@@ -116,7 +116,7 @@ int main(void)
   MX_USART3_UART_Init();
   MX_USB_OTG_FS_PCD_Init();
   /* USER CODE BEGIN 2 */
-
+/*ujik */
   /* USER CODE END 2 */
 
   /* Init scheduler */
